@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: flink-study
+  kafka:
+    bootstrap-servers: PLAINTEXT://localhost:32800
